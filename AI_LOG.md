@@ -1,5 +1,3 @@
-# AI LOG – TIỆM ĐỒ CŨ TRUNG KYEN
-
 ## 1. Thông tin chung
 
 - **Tên dự án:** Tiệm Đồ Cũ Trung Kyen
