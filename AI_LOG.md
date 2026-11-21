@@ -40,6 +40,3 @@ Sau khi nhận được kết quả từ AI, em đã:
 Qua quá trình sử dụng AI, em hiểu rằng AI là công cụ hỗ trợ học tập và lập trình hiệu quả. Tuy nhiên, em không nên phụ thuộc hoàn toàn vào AI mà cần tự đọc, hiểu, kiểm tra và chỉnh sửa mã nguồn.
 
 Em chịu trách nhiệm với sản phẩm cuối cùng và cần đảm bảo các chức năng hoạt động đúng với yêu cầu dự án.
-
----
-*AI LOG – Tiệm Đồ Cũ Trung Kyen – 2026*
